@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ### I'm Zakaria Aabou ,<br/> Student at [@1337fil](https://1337.ma/) Futur is Loading 
-## 💻 I am currently working on recreating [libft](https://github.com/zikoziko01/42_Network_Libft)<br/> 📚 I am currently learning software engineering at [1337fil](https://1337.ma/)
+## 💻 I am currently working on  [pipex](https://github.com/zikoziko01/42_Network_Libft)<br/> 📚 I am currently learning software engineering at [1337fil](https://1337.ma/)
 
 
 <p align="center"><a href="https://github.com/zikoziko01"><img alt="Ask Me Anything" src="https://1337-readme.vercel.app/api/profile?cursus=42cursus&login=zaabou" /></a></p>
