@@ -17,5 +17,4 @@
 </p>
 --
 
-| [![Zakaria Aabou GitHub stats](https://github-readme-stats-eight-virid.vercel.app/api?username=zikoziko01&count_private=true&theme=calm&show_icons=true)](https://github.com/zikoziko01?tab=repositories) | [![Zakaria Aabou most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zikoziko01&layout=compact&hide_border=true&theme=jolly)](https://github.com/zikoziko01?tab=repositories) |
-|:-:|:-:|
+| [![Zakaria Aabou GitHub stats](https://github-readme-stats-eight-virid.vercel.app/api?username=zikoziko01&count_private=true&theme=calm&show_icons=true)](https://github.com/zikoziko01?tab=repositories) | [![Zakaria Aabou most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zikoziko01&layout=compact&hide_border=true&theme=jolly)](https://github.com/zikoziko01?tab=repositories)
