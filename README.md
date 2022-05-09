@@ -4,7 +4,7 @@
 ## 💻 I am currently working on  [pipex]()<br/> 📚 I am currently learning Cyber-Security 🤖 & Computer Science  🖥️  [1337fil](https://1337.ma/)
 
 
-<p align="center"><a href="https://github.com/zikoziko01"><img alt="Ask Me Anything" src="https://1337-readme.vercel.app/api/profile?cursus=42cursus&dark=true&login=zaabou" /></a></p>
+<p align="center"><a <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/greenbinary/zaabou" alt="zaabou's 42 stats" /></a> /></a></p>
 <br/>
 <p align="center">
 	<a href="=mailto:zaabou@student.1337.ma">
