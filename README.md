@@ -15,7 +15,10 @@
 		<img alt="Linkedin Profile" src="https://img.shields.io/badge/-Linkedin_Profile-0072b1?style=flat&logo=Linkedin&logoColor=white&link=#" />
 	</a>
 </p>
---
 
-| [![Zakaria Aabou GitHub stats](https://github-readme-stats-eight-virid.vercel.app/api?username=zikoziko01&count_private=true&theme=calm&show_icons=true)](https://github.com/zikoziko01?tab=repositories) | [![Zakaria Aabou most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zikoziko01&layout=compact&hide_border=true&theme=jolly)](https://github.com/zikoziko01?tab=repositories) |
-|:-:|:-:|
+My Tools 🔥 :
+<div style=left >
+<img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="linux OS" width="40" height="40"/>&emsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" width="40" height="40"/>&emsp;
+<img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/gnometerminal.svg" title="shell" width="40" height="40"/>&emsp;
+</div>
