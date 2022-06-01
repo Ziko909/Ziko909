@@ -18,7 +18,7 @@
 
 My Tools 🔥 :
 <div style=left >
-<img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="linux OS" width="40" height="40"/>&emsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg"  title="linux OS" width="40" height="40"/>&emsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" width="40" height="40"/>&emsp;
-<img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/gnometerminal.svg" title="shell" width="40" height="40"/>&emsp;
+<img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/gnometerminal.svg" title="shell scripting and cmd" width="40" height="40"/>&emsp;
 </div>
