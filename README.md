@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ### I'm Zakaria Aabou ,<br/> Student at [@1337fil](https://1337.ma/) Futur is Loading 
-## 💻 I am currently working on  [NetPractice ](https://en.wikipedia.org/wiki/Computer_network)<br/> 📚 I am currently learning Cyber-Security 🤖 & Computer Science  🖥️  [1337fil](https://1337.ma/)
+## 💻 I am currently working on [cub3d](https://www.youtube.com/watch?v=rnWRs_BBgXc) <br/> 📚 I am currently learning Cyber-Security 🤖 & Computer Science  🖥️  [1337fil](https://1337.ma/)
 
 
 <p align="center"><a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/greenbinary/zaabou" alt="zaabou's 42 stats" /></a></p><br/>
