@@ -10,7 +10,7 @@
 		<img alt="Ask Me Anything" src="https://img.shields.io/badge/-Ask_me_anything-blueviolet?style=flat&logo=Gmail&logoColor=white&link=mailto:zaabou@student.1337.ma" />
 	</a>
 	<span> * </span>
-	<a href="#">
+	<a href="https://www.linkedin.com/in/zakaria-aabou-a13098208">
 		<img alt="Linkedin Profile" src="https://img.shields.io/badge/-Linkedin_Profile-0072b1?style=flat&logo=Linkedin&logoColor=white&link=#" />
 	</a>
 </p>
