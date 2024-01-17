@@ -25,16 +25,20 @@ Hello there! I'm Zakaria, a passionate software developer with a diverse skill s
 
 ## Tools and Libraries
 
- <code> <img height="20" alt="docker" src="https://img.icons8.com/color/48/ffffff/docker.png"> Docker  </code>
- <code> <img height="20" alt="git" src="https://img.icons8.com/color/48/ffffff/git.png"> Git </code>
- <code> <img height="20" alt="github" src="https://img.icons8.com/color/48/ffffff/github.png"> GitHub </code>
- <code> <img width="20" height="20" src="https://img.icons8.com/metro/26/sql.png" alt="sql"/> SQL </code>
- <code> <img width="20" height="20" src="https://img.icons8.com/external-outline-black-m-oki-orlando/32/external-nosql-database-outline-outline-black-m-oki-orlando.png" alt="external-nosql-database-outline-outline-black-m-oki-orlando"/> NoSQL </code>
- <code> <img height="20" alt="orm" src="https://simpleicons.org/icons/sequelize.svg"> ORM </code>
- <code> <img height="20" alt="nestjs" src="https://img.icons8.com/color/48/ffffff/nestjs.png"> NestJS </code>
- <code> <img width="20" height="20" src="https://img.icons8.com/fluency-systems-filled/48/nextjs.png" alt="nextjs"/> Next.js </code>
- <code> <img height="20" alt="react" src="https://img.icons8.com/color/48/ffffff/react-native.png"> React </code>
-<code> <img height="20" alt="tailwindcss" src="https://img.icons8.com/color/48/ffffff/tailwindcss.png"> Tailwind CSS </code>
+ <div>
+   <code> <img height="20" alt="docker" src="https://img.icons8.com/color/48/ffffff/docker.png"> Docker  </code>
+   <code> <img height="20" alt="git" src="https://img.icons8.com/color/48/ffffff/git.png"> Git </code>
+   <code> <img height="20" alt="github" src="https://img.icons8.com/color/48/ffffff/github.png"> GitHub </code>
+   <code> <img width="20" height="20" src="https://img.icons8.com/metro/26/sql.png" alt="sql"/> SQL </code>
+   <code> <img width="20" height="20" src="https://img.icons8.com/external-outline-black-m-oki-orlando/32/external-nosql-database-outline-outline-black-m-oki-orlando.png" alt="external-nosql-database-outline-outline-black-m-oki-orlando"/> NoSQL </code>
+   <code> <img height="20" alt="orm" src="https://simpleicons.org/icons/sequelize.svg"> ORM </code>
+ </div>
+ <div>
+   <code> <img height="20" alt="nestjs" src="https://img.icons8.com/color/48/ffffff/nestjs.png"> NestJS </code>
+   <code> <img width="20" height="20" src="https://img.icons8.com/fluency-systems-filled/48/nextjs.png" alt="nextjs"/> Next.js </code>
+   <code> <img height="20" alt="react" src="https://img.icons8.com/color/48/ffffff/react-native.png"> React </code>
+   <code> <img height="20" alt="tailwindcss" src="https://img.icons8.com/color/48/ffffff/tailwindcss.png"> Tailwind CSS </code>
+ </div>
 
 ## GitHub Stats
 
