@@ -1,23 +1,51 @@
-### Hi there 👋
+# Introduction
 
-### I'm Zakaria Aabou ,<br/> Student at [@1337fil](https://1337.ma/) Futur is Loading 
-## 💻 I am currently working on [ft_ft_transcendance](https://www.youtube.com/watch?v=MTlwQ8AmKoY) <br/> 📚 I am currently learning Cyber-Security 🤖 & Computer Science  🖥️  [1337fil](https://1337.ma/)
+Hello there! I'm Zakaria, a passionate software developer with a diverse skill set. I love building innovative projects and exploring new technologies. With a strong foundation in JavaScript, C/C++, and more, I'm always eager to take on exciting challenges.
+
+## Significant Projects
+
+- [ft_transcendance](https://github.com/Ziko909/ft_transcendance): ft_transcendance is a real-time multiplayer web application that provides users with an unforgettable and enjoyable experience.
+- [inception](https://github.com/Ziko909/inception): inception is a project focused on discovering the world of containers.
+- [Webserv](https://github.com/Ziko909/Webserv): Webserv is an HTTP server implementation written in C++.
+- [minishell](https://github.com/Ziko909/minishell-42-cursus): minishell is a feature-rich shell developed using the C language.
+- [push_swap](https://github.com/Ziko909/push_swap): push_swap is a program that efficiently sorts data on a stack using a restricted set of instructions.
+
+## Programming Languages
 
 
-<p align="center"><a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/greenbinary/zaabou" alt="zaabou's 42 stats" /></a></p><br/>
-<p align="center">
-	<a href="=mailto:zaabou@student.1337.ma">
-		<img alt="Ask Me Anything" src="https://img.shields.io/badge/-Ask_me_anything-blueviolet?style=flat&logo=Gmail&logoColor=white&link=mailto:zaabou@student.1337.ma" />
-	</a>
-	<span> * </span>
-	<a href="https://www.linkedin.com/in/zakaria-aabou-a13098208">
-		<img alt="Linkedin Profile" src="https://img.shields.io/badge/-Linkedin_Profile-0072b1?style=flat&logo=Linkedin&logoColor=white&link=#" />
-	</a>
-</p>
 
-My Tools 🔥 :
-<div style=left >
-<img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg"  title="linux OS" width="40" height="40"/>&emsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" width="40" height="40"/>&emsp;
-<img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/gnometerminal.svg" title="shell scripting and cmd" width="40" height="40"/>&emsp;
-</div>
+ <code> <img height="20" alt="javascript" 
+  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"> JavaScript </code>
+<code> <img height="20" alt="typescript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"> TypeScript </code>
+<code> <img height="20" alt="c" src="https://img.icons8.com/color/48/000000/c-programming.png"> C </code>
+<code> <img height="20" alt="cpp" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"> C++ </code>
+ <code> <img height="20" alt="bash" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png"> Bash </code>
+<code> <img height="20" alt="html" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"> HTML </code>
+<code> <img height="20" alt="css" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"> CSS </code>
+
+## Tools and Libraries
+
+ <code> <img height="20" alt="docker" src="https://img.icons8.com/color/48/ffffff/docker.png"> Docker  </code>
+ <code> <img height="20" alt="git" src="https://img.icons8.com/color/48/ffffff/git.png"> Git </code>
+ <code> <img height="20" alt="github" src="https://img.icons8.com/color/48/ffffff/github.png"> GitHub </code>
+ <code> <img width="20" height="20" src="https://img.icons8.com/metro/26/sql.png" alt="sql"/> SQL </code>
+ <code> <img width="20" height="20" src="https://img.icons8.com/external-outline-black-m-oki-orlando/32/external-nosql-database-outline-outline-black-m-oki-orlando.png" alt="external-nosql-database-outline-outline-black-m-oki-orlando"/> NoSQL </code>
+ <code> <img height="20" alt="orm" src="https://simpleicons.org/icons/sequelize.svg"> ORM </code>
+ <code> <img height="20" alt="nestjs" src="https://img.icons8.com/color/48/ffffff/nestjs.png"> NestJS </code>
+ <code> <img width="20" height="20" src="https://img.icons8.com/fluency-systems-filled/48/nextjs.png" alt="nextjs"/> Next.js </code>
+ <code> <img height="20" alt="react" src="https://img.icons8.com/color/48/ffffff/react-native.png"> React </code>
+<code> <img height="20" alt="tailwindcss" src="https://img.icons8.com/color/48/ffffff/tailwindcss.png"> Tailwind CSS </code>
+
+## GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ziko909&show_icons=true&theme=dark)
+
+## Most Used Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ziko909&layout=compact&theme=dark)
+
+## Contact Information
+
+- GitHub: [Ziko909](https://github.com/Ziko909)
+- LinkedIn: [Zakaria Aabou](https://www.linkedin.com/in/zakaria-aabou)
+- Gmail: aabou.zakaria909@gmail.com
