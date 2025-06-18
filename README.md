@@ -2,6 +2,13 @@
 
 🎯 **Solution-driven Junior Backend Developer** with hands-on experience in **Backend Development**, **DevOps**, and **cloud-native architectures**. 🎓 Graduate of **1337 Coding School**, part of the prestigious [42 Network](https://www.42network.org/), the world’s leading group of IT schools. 💡 Passionate about transforming complex ideas into **scalable**, **production-ready** solutions and optimizing systems for **real-world impact**.
 
+
+<p align="center">
+  <a href="https://drive.google.com/file/d/1gZSnkRCUZhUK5ysn8lNH1lA6gtmF2SHb/view" target="_blank">
+    <img src="https://img.shields.io/badge/📄%20View%20My%20Resume-blue?style=for-the-badge" alt="Resume Button"/>
+  </a>
+</p>
+
 ---
 
 ## 👨‍💼 Professional Experience
