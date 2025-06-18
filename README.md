@@ -1,6 +1,17 @@
-# Introduction
+# 🚀 Introduction
 
-Solution-driven Junior Backend Developer with experience in Backend Development and cloud-native architectures. Graduate of 1337 Coding School, part of the 42 Network, the best group of IT schools globally. Passionate about transforming complex ideas into scalable, production-ready solutions and optimizing systems for real-world impact.
+🎯 **Solution-driven Junior Backend Developer** with hands-on experience in **Backend Development**, **DevOps**, and **cloud-native architectures**. 🎓 Graduate of **1337 Coding School**, part of the prestigious [42 Network](https://www.42network.org/), the world’s leading group of IT schools. 💡 Passionate about transforming complex ideas into **scalable**, **production-ready** solutions and optimizing systems for **real-world impact**.
+
+---
+
+## 👨‍💼 Professional Experience
+
+**Backend/DevOps Engineer**  
+[**FOODEALS**](https://www.linkedin.com/company/foodeals/posts/?feedView=) &nbsp;&nbsp;•&nbsp;&nbsp; *Jul 2024 – Feb 2025*  
+🧪 Successfully completed a **7-month internship** contributing to a food waste management platform.  
+💻 Gained practical, real-world experience in **backend** and **DevOps workflows**, actively participating in the development and optimization of scalable services. 🚀 Contributed to real-time deployment pipelines, backend APIs, and system performance improvements in a collaborative, impact-driven team environment.
+
+---
 
 ## Significant Projects
 
@@ -10,6 +21,7 @@ Solution-driven Junior Backend Developer with experience in Backend Development 
 - [Webserv](https://github.com/Ziko909/Webserv): Webserv is an HTTP server implementation written in C++.
 - [minishell](https://github.com/Ziko909/minishell-42-cursus): minishell is a feature-rich shell developed using the C language.
 - [push_swap](https://github.com/Ziko909/push_swap): push_swap is a program that efficiently sorts data on a stack using a restricted set of instructions.
+
 
 ## 💻 Programming Languages
 
@@ -41,17 +53,12 @@ Solution-driven Junior Backend Developer with experience in Backend Development 
 <code> <img height="20" alt="vagrant" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vagrant/vagrant-original.svg"> Vagrant </code>
 </div>
 
-
-## GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ziko909&show_icons=true&theme=dark)
-
 ## Most Used Languages
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ziko909&layout=compact&theme=dark)
 
 ## Contact Information
 
-- GitHub: [Ziko909](https://github.com/Ziko909)
 - LinkedIn: [Zakaria Aabou](https://www.linkedin.com/in/zakaria-aabou)
 - Gmail: aabou.zakaria909@gmail.com
+- Phone: +212 684-128398
